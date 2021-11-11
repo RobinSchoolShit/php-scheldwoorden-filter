@@ -1,7 +1,7 @@
 # PHP OOP Eindopdracht scheldwoordenfilter
 
 ## Installatie
-- Je moet database.sql importeren in PHPMyAdmin
+- Je moet scheldwoorden.sql importeren in PHPMyAdmin
 - En de index.php of ../crud openen en dan kan je beginnen
 
 ## Scheldwoorden filter
